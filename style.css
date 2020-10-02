@@ -1,0 +1,15 @@
+.img{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%
+}
+.title{
+    text-align: center;
+}
+.title p{
+font-size: medium;
+}
+.form{
+    text-align: center;
+}
